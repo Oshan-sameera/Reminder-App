@@ -1,0 +1,5 @@
+1) run json server first using following command
+npm run server
+
+2) then run the application
+npm start
